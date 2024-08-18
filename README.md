@@ -1,0 +1,1 @@
+# puskop-cashier-static-data
